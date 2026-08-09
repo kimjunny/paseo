@@ -1959,10 +1959,10 @@ export const ptBR: TranslationResources = {
         resetAll: "Redefinir tudo",
       },
       sections: {
-        navigation: "Navegação",
+        general: "Geral",
+        workspaces: "Projetos e workspaces",
         tabsPanes: "Abas e painéis",
-        projects: "Projetos",
-        panels: "Painéis",
+        layout: "Layout",
         agentInput: "Entrada do agente",
       },
       help: {

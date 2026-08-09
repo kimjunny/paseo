@@ -1928,10 +1928,10 @@ export const ar: TranslationResources = {
         resetAll: "إعادة ضبط الكل",
       },
       sections: {
-        navigation: "ملاحة",
+        general: "عام",
+        workspaces: "المشاريع ومساحات العمل",
         tabsPanes: "علامات التبويب والأجزاء",
-        projects: "المشاريع",
-        panels: "لوحات",
+        layout: "التخطيط",
         agentInput: "إدخال Agent",
       },
       help: {

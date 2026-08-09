@@ -1938,10 +1938,10 @@ export const en = {
         resetAll: "Reset all",
       },
       sections: {
-        navigation: "Navigation",
+        general: "General",
+        workspaces: "Projects & Workspaces",
         tabsPanes: "Tabs & Panes",
-        projects: "Projects",
-        panels: "Panels",
+        layout: "Layout",
         agentInput: "Agent Input",
       },
       help: {

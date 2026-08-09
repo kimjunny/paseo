@@ -1944,10 +1944,10 @@ export const ja: TranslationResources = {
         resetAll: "すべてリセット",
       },
       sections: {
-        navigation: "ナビゲーション",
+        general: "一般",
+        workspaces: "プロジェクト＆ワークスペース",
         tabsPanes: "タブ＆ペイン",
-        projects: "プロジェクト",
-        panels: "パネル",
+        layout: "レイアウト",
         agentInput: "エージェント入力",
       },
       help: {
